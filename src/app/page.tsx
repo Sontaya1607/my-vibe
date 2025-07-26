@@ -4,6 +4,7 @@ const Page = () => {
   return (
     <div className="font-bold">
       <Button>Click Me</Button>
+      <Button>Open Me</Button>
     </div>
   );
 };
